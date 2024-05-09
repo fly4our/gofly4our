@@ -9,7 +9,7 @@ assignees: ''
 
 # 프로젝트 이름(Fly4our 계산기 만들기)
 
-
+<img src = "https://github.com/fly4our/gofly4our/assets/58318621/996606bb-b3e1-4df9-83d3-7f1472cf907d" width="300">
 
 # 과제 설명
 
