@@ -7,6 +7,7 @@ assignees: ''
 
 ---
 
+<div align = "center">
 🍀Issue Template🍀 
 ==============================
 
