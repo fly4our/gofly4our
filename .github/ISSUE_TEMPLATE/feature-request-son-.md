@@ -1,5 +1,5 @@
 ---
-name: Feature request
+name: Feature request(son)
 about: "필요한 기능이 있는지 생각해 보아요\U0001FA84"
 title: ''
 labels: enhancement
