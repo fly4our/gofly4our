@@ -9,7 +9,7 @@ assignees: ''
 
 <div align = "center">
 
-🍀Issue Template🍀 
+🍀Issue Template🍀
 ==============================
 
 ### 🤷‍♀️️ 문제 제기 
