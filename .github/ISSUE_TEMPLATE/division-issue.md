@@ -1,8 +1,8 @@
 ---
-name: Feature request
+name: division issue
 about: Suggest an idea for this project
 title: ''
-labels: ''
+labels: 'division :whale:'
 assignees: ''
 
 ---
