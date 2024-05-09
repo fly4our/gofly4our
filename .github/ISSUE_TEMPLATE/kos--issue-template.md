@@ -1,9 +1,9 @@
 ---
 name: Kos' issue Template
 about: "Hello World\U0001F64B‍♀️"
-title: ''
+title: Division
 labels: 'division :whale:'
-assignees: ''
+assignees: kosm0ssy
 
 ---
 
@@ -11,6 +11,9 @@ assignees: ''
 
 🍀Issue Template🍀
 ==============================
+</div>
+### 📖 Project Abstract
+<br><br>
 
 ### 🤷‍♀️️ 문제 제기 
 -어떠한 문제로 해당 기능을 추가하려 하는지 명확하고 간결하게 설명해주세요.
