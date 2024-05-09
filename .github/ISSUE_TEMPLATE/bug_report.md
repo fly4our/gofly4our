@@ -2,7 +2,7 @@
 name: Bug report
 about: "문제점을 고민해 보아요\U0001F4A1"
 title: ''
-labels: question
+labels: division :whale:, question
 assignees: ''
 
 ---
