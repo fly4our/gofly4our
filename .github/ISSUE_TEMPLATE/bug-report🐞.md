@@ -1,8 +1,8 @@
 ---
-name: Bug report
+name: "Bug report\U0001F41E"
 about: "문제점을 고민해 보아요\U0001F4A1"
 title: ''
-labels: division :whale:, question
+labels: question
 assignees: ''
 
 ---
