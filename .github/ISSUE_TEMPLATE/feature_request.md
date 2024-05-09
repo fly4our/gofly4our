@@ -1,8 +1,8 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
+about: "필요한 기능이 있는지 생각해 보아요\U0001FA84"
 title: ''
-labels: ''
+labels: enhancement
 assignees: ''
 
 ---
