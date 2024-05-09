@@ -1,3 +1,12 @@
+---
+name: infinite393's issue Template
+about: Describe this issue template's purpose here.
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 # 프로젝트 이름(Fly4our 계산기 만들기)
 
 
@@ -23,5 +32,3 @@
 
 
 ### created by [infinite393](https://github.com/infinite393)
-
-
